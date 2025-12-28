@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import DB_RAW from "../data/codes_250_fr.json";
+import DB_RAW from "../data/codes.json";
 
 type CodeEntry = {
   id: string;
