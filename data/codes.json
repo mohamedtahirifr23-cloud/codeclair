@@ -1,0 +1,3253 @@
+[
+  {
+    "id": "pet-1",
+    "codes": [
+      "PET 1",
+      "PET1",
+      "PET-1"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PET (bouteilles)",
+    "meaning_fr": "PET 1 correspond généralement au plastique des bouteilles et barquettes transparentes.",
+    "action_fr": "À déposer dans le bac de tri des emballages (plastique), selon les consignes locales.",
+    "warning_fr": "Videz le contenu. Évitez les objets non-emballages (jouets, ustensiles).",
+    "tip_fr": "Écrasez la bouteille pour gagner de la place (consignes locales pour le bouchon)."
+  },
+  {
+    "id": "hdpe-2",
+    "codes": [
+      "HDPE 2",
+      "HDPE2",
+      "PEHD 2",
+      "PEHD2"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PEHD / HDPE (bidons, flacons)",
+    "meaning_fr": "HDPE/PEHD 2 est un plastique robuste utilisé pour bidons, flacons, bouchons.",
+    "action_fr": "À trier avec les emballages plastiques (bac de tri), selon votre commune.",
+    "warning_fr": "Ne mettez pas de contenants chimiques non vidés.",
+    "tip_fr": "Laissez l’étiquette : elle est gérée au tri industriel."
+  },
+  {
+    "id": "pvc-3",
+    "codes": [
+      "PVC 3",
+      "PVC3",
+      "PVC-3"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PVC",
+    "meaning_fr": "PVC 3 est un plastique utilisé pour certains films, blisters, tuyaux et emballages spécifiques.",
+    "action_fr": "Suivez les consignes locales : le PVC n’est pas accepté partout en tri.",
+    "warning_fr": "Si votre commune refuse le PVC, jetez-le aux ordures ménagères.",
+    "tip_fr": "Vérifiez le guide de tri de votre ville (consignes différentes)."
+  },
+  {
+    "id": "ldpe-4",
+    "codes": [
+      "LDPE 4",
+      "LDPE4",
+      "PEBD 4",
+      "PEBD4"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PEBD / LDPE (films, sacs)",
+    "meaning_fr": "LDPE/PEBD 4 est souvent utilisé pour films plastiques, sacs, sachets.",
+    "action_fr": "À trier si votre commune accepte les films plastiques ; sinon ordures ménagères.",
+    "warning_fr": "Les films très sales/gras peuvent être refusés.",
+    "tip_fr": "Regroupez les films propres en boule pour faciliter le tri (si consigne locale)."
+  },
+  {
+    "id": "pp-5",
+    "codes": [
+      "PP 5",
+      "PP5",
+      "PP-5"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PP (pots, barquettes)",
+    "meaning_fr": "PP 5 est un plastique courant pour pots, barquettes, bouchons et boîtes.",
+    "action_fr": "À déposer dans le bac de tri des emballages (si accepté localement).",
+    "warning_fr": "Évitez de mettre des objets rigides non-emballages.",
+    "tip_fr": "Videz et, si besoin, essuyez rapidement sans gaspiller d’eau."
+  },
+  {
+    "id": "ps-6",
+    "codes": [
+      "PS 6",
+      "PS6",
+      "PS-6"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastique PS (polystyrène)",
+    "meaning_fr": "PS 6 (polystyrène) est souvent utilisé pour gobelets, barquettes, mousses de protection.",
+    "action_fr": "Suivez les consignes locales : le PS est parfois refusé au tri.",
+    "warning_fr": "Le polystyrène expansé (mousse) est fréquemment non accepté.",
+    "tip_fr": "Regardez le guide de tri local avant de trier."
+  },
+  {
+    "id": "other-7",
+    "codes": [
+      "OTHER 7",
+      "OTHER7",
+      "O 7",
+      "O7"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Plastiques divers / composites",
+    "meaning_fr": "Le code 7 regroupe des plastiques variés (polycarbonate, bioplastiques, composites).",
+    "action_fr": "Suivez les consignes locales : souvent non accepté au tri standard.",
+    "warning_fr": "Risque de refus au centre de tri si composite.",
+    "tip_fr": "Privilégiez les emballages mono-matériau quand possible."
+  },
+  {
+    "id": "alu",
+    "codes": [
+      "ALU",
+      "ALUMINIUM",
+      "AL"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium",
+    "meaning_fr": "ALU indique un emballage en aluminium (canettes, opercules, barquettes).",
+    "action_fr": "À trier dans le bac des emballages (métaux), selon les consignes locales.",
+    "warning_fr": "Les barquettes très grasses peuvent nécessiter un essuyage.",
+    "tip_fr": "Compressez canettes et barquettes pour réduire le volume."
+  },
+  {
+    "id": "fe",
+    "codes": [
+      "FE",
+      "ACIER",
+      "STEEL"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier / fer-blanc",
+    "meaning_fr": "FE indique un emballage métallique en acier (boîtes de conserve, aérosols).",
+    "action_fr": "À trier avec les emballages métalliques.",
+    "warning_fr": "Aérosols : vérifier qu’ils sont vides ; ne pas percer.",
+    "tip_fr": "Laissez les petits éléments ensemble (couvercles) si possible."
+  },
+  {
+    "id": "gl-70",
+    "codes": [
+      "GL 70",
+      "GL70"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre incolore",
+    "meaning_fr": "GL 70 correspond au verre incolore (transparent).",
+    "action_fr": "À déposer dans le conteneur verre (borne à verre), sans sac.",
+    "warning_fr": "Retirez les bouchons/capsules si votre commune le demande.",
+    "tip_fr": "Rincez rapidement seulement si très sale (sans gaspiller d’eau)."
+  },
+  {
+    "id": "gl-71",
+    "codes": [
+      "GL 71",
+      "GL71"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre vert",
+    "meaning_fr": "GL 71 correspond au verre de couleur verte.",
+    "action_fr": "À déposer dans le conteneur verre (borne à verre), sans sac.",
+    "warning_fr": "Retirez les bouchons/capsules si votre commune le demande.",
+    "tip_fr": "Rincez rapidement seulement si très sale (sans gaspiller d’eau)."
+  },
+  {
+    "id": "gl-72",
+    "codes": [
+      "GL 72",
+      "GL72"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre brun / ambre",
+    "meaning_fr": "GL 72 correspond au verre brun/ambre.",
+    "action_fr": "À déposer dans le conteneur verre (borne à verre), sans sac.",
+    "warning_fr": "Retirez les bouchons/capsules si votre commune le demande.",
+    "tip_fr": "Rincez rapidement seulement si très sale (sans gaspiller d’eau)."
+  },
+  {
+    "id": "pap-20",
+    "codes": [
+      "PAP 20",
+      "PAP20"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Carton ondulé",
+    "meaning_fr": "PAP 20 indique du carton ondulé.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-21",
+    "codes": [
+      "PAP 21",
+      "PAP21"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Carton / Papier",
+    "meaning_fr": "PAP 21 indique un emballage principalement en carton/papier.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-22",
+    "codes": [
+      "PAP 22",
+      "PAP22"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier",
+    "meaning_fr": "PAP 22 indique du papier.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-23",
+    "codes": [
+      "PAP 23",
+      "PAP23"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Carton (divers)",
+    "meaning_fr": "PAP 23 correspond à certains cartons/papiers spécifiques.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-80",
+    "codes": [
+      "PAP 80",
+      "PAP80"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Composite papier/plastique",
+    "meaning_fr": "PAP 80 désigne un composite avec dominance papier.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-81",
+    "codes": [
+      "PAP 81",
+      "PAP81"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Composite papier/aluminium",
+    "meaning_fr": "PAP 81 désigne un composite avec dominance papier et aluminium.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "pap-90",
+    "codes": [
+      "PAP 90",
+      "PAP90"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier composite",
+    "meaning_fr": "PAP 90 regroupe des composites à base de papier.",
+    "action_fr": "À trier dans le bac papier/carton (selon consignes locales).",
+    "warning_fr": "Si très sale (graisse/huile), il peut être refusé au recyclage.",
+    "tip_fr": "Pliez l’emballage pour réduire le volume."
+  },
+  {
+    "id": "c-pap-81",
+    "codes": [
+      "C/PAP 81",
+      "C/PAP81"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Brique alimentaire carton + alu + plastique",
+    "meaning_fr": "C/PAP 81 est typique des briques alimentaires multi-couches (carton/alu/plastique).",
+    "action_fr": "À trier dans le bac des emballages (si votre commune l’accepte).",
+    "warning_fr": "Rincez seulement si nécessaire, videz bien pour éviter les odeurs.",
+    "tip_fr": "Aplatissez la brique pour gagner de la place."
+  },
+  {
+    "id": "c-pap-84",
+    "codes": [
+      "C/PAP 84",
+      "C/PAP84"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Carton composite (dominance papier)",
+    "meaning_fr": "C/PAP 84 indique un composite à dominance papier (carton + couche plastique).",
+    "action_fr": "À trier selon les consignes locales (souvent bac de tri).",
+    "warning_fr": "Les emballages très sales peuvent être refusés.",
+    "tip_fr": "Pliez et videz avant tri."
+  },
+  {
+    "id": "pao-3m",
+    "codes": [
+      "3M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 3M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 3M indique une durée d’utilisation recommandée de 3 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-6m",
+    "codes": [
+      "6M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 6M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 6M indique une durée d’utilisation recommandée de 6 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-9m",
+    "codes": [
+      "9M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 9M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 9M indique une durée d’utilisation recommandée de 9 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-12m",
+    "codes": [
+      "12M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 12M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 12M indique une durée d’utilisation recommandée de 12 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-18m",
+    "codes": [
+      "18M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 18M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 18M indique une durée d’utilisation recommandée de 18 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-24m",
+    "codes": [
+      "24M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 24M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 24M indique une durée d’utilisation recommandée de 24 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "pao-36m",
+    "codes": [
+      "36M"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "PAO 36M (Période Après Ouverture)",
+    "meaning_fr": "Le symbole 36M indique une durée d’utilisation recommandée de 36 mois après ouverture.",
+    "action_fr": "Notez la date d’ouverture si vous voulez suivre précisément.",
+    "warning_fr": "Si odeur/texture/couleur change → arrêter l’usage, même avant la fin de la PAO.",
+    "tip_fr": "Conservez à l’abri de la chaleur et de l’humidité."
+  },
+  {
+    "id": "uva",
+    "codes": [
+      "UVA"
+    ],
+    "category": "Cosmétique",
+    "title_fr": "Symbole UVA (protection UVA)",
+    "meaning_fr": "Le marquage UVA (dans un cercle) indique que la protection UVA répond aux exigences réglementaires pour un écran solaire.",
+    "action_fr": "Utilisez une quantité suffisante et renouvelez l’application régulièrement.",
+    "warning_fr": "Aucune crème ne protège à 100% : évitez l’exposition prolongée.",
+    "tip_fr": "Combinez avec chapeau/ombre, surtout en été."
+  },
+  {
+    "id": "dlc",
+    "codes": [
+      "DLC"
+    ],
+    "category": "Alimentaire",
+    "title_fr": "DLC (Date Limite de Consommation)",
+    "meaning_fr": "Après la DLC, le produit peut présenter un risque sanitaire (surtout pour les produits frais).",
+    "action_fr": "Respectez la DLC, notamment pour viandes, poissons, produits réfrigérés.",
+    "warning_fr": "Ne pas confondre avec DDM (plus souple).",
+    "tip_fr": "Conservez la chaîne du froid et vérifiez l’aspect/odeur avant usage."
+  },
+  {
+    "id": "ddm",
+    "codes": [
+      "DDM",
+      "DLUO"
+    ],
+    "category": "Alimentaire",
+    "title_fr": "DDM (Date de Durabilité Minimale)",
+    "meaning_fr": "Après la DDM, la qualité peut diminuer (goût/texture), mais ce n’est pas automatiquement dangereux.",
+    "action_fr": "Peut souvent se consommer après si emballage intact et aspect normal.",
+    "warning_fr": "Attention aux huiles/graines/noix : rancissement possible.",
+    "tip_fr": "Stockez au sec, à l’abri de la chaleur."
+  },
+  {
+    "id": "uht",
+    "codes": [
+      "UHT"
+    ],
+    "category": "Alimentaire",
+    "title_fr": "UHT (Ultra Haute Température)",
+    "meaning_fr": "UHT indique un traitement thermique permettant une conservation longue avant ouverture.",
+    "action_fr": "Stockez à température ambiante avant ouverture ; au réfrigérateur après ouverture.",
+    "warning_fr": "Après ouverture : consommer rapidement (souvent 3–5 jours).",
+    "tip_fr": "Notez la date d’ouverture sur l’emballage."
+  },
+  {
+    "id": "fr-ce",
+    "codes": [
+      "FR xx.xxx.xxx CE",
+      "FR ** CE",
+      "XX CE"
+    ],
+    "category": "Traçabilité",
+    "title_fr": "Marquage sanitaire (ex: FR xx.xxx.xxx CE)",
+    "meaning_fr": "Le marquage sanitaire sur les produits d’origine animale identifie l’établissement agréé (pays + numéro + CE).",
+    "action_fr": "Utile pour la traçabilité et les rappels produits.",
+    "warning_fr": "Ce marquage n’est pas une date : vérifiez DLC/DDM séparément.",
+    "tip_fr": "Conservez l’étiquette si vous avez un doute ou pour contacter le service client."
+  },
+  {
+    "id": "egg-code",
+    "codes": [
+      "0FR",
+      "1FR",
+      "2FR",
+      "3FR"
+    ],
+    "category": "Alimentaire",
+    "title_fr": "Code œufs (0/1/2/3 + pays + élevage)",
+    "meaning_fr": "Sur les œufs : 0=Bio, 1=Plein air, 2=Au sol, 3=En cage, suivi du pays (FR) et d’un identifiant d’élevage.",
+    "action_fr": "Choisissez selon votre préférence (bio/plein air).",
+    "warning_fr": "Vérifiez la date de consommation recommandée sur la boîte.",
+    "tip_fr": "Conservez au réfrigérateur pour limiter les variations de température."
+  },
+  {
+    "id": "ghs01",
+    "codes": [
+      "GHS01",
+      "ghs01"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS01 — Explosif",
+    "meaning_fr": "GHS01 est un pictogramme de danger (CLP) indiquant : Explosif.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs02",
+    "codes": [
+      "GHS02",
+      "ghs02"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS02 — Inflammable",
+    "meaning_fr": "GHS02 est un pictogramme de danger (CLP) indiquant : Inflammable.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs03",
+    "codes": [
+      "GHS03",
+      "ghs03"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS03 — Comburant",
+    "meaning_fr": "GHS03 est un pictogramme de danger (CLP) indiquant : Comburant.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs04",
+    "codes": [
+      "GHS04",
+      "ghs04"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS04 — Gaz sous pression",
+    "meaning_fr": "GHS04 est un pictogramme de danger (CLP) indiquant : Gaz sous pression.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs05",
+    "codes": [
+      "GHS05",
+      "ghs05"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS05 — Corrosif",
+    "meaning_fr": "GHS05 est un pictogramme de danger (CLP) indiquant : Corrosif.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs06",
+    "codes": [
+      "GHS06",
+      "ghs06"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS06 — Toxique",
+    "meaning_fr": "GHS06 est un pictogramme de danger (CLP) indiquant : Toxique.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs07",
+    "codes": [
+      "GHS07",
+      "ghs07"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS07 — Nocif / irritant",
+    "meaning_fr": "GHS07 est un pictogramme de danger (CLP) indiquant : Nocif / irritant.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs08",
+    "codes": [
+      "GHS08",
+      "ghs08"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS08 — Danger pour la santé",
+    "meaning_fr": "GHS08 est un pictogramme de danger (CLP) indiquant : Danger pour la santé.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "ghs09",
+    "codes": [
+      "GHS09",
+      "ghs09"
+    ],
+    "category": "Sécurité (produits ménagers)",
+    "title_fr": "Pictogramme GHS09 — Dangereux pour l’environnement",
+    "meaning_fr": "GHS09 est un pictogramme de danger (CLP) indiquant : Dangereux pour l’environnement.",
+    "action_fr": "Lisez les précautions sur l’étiquette (gants, ventilation, dosage).",
+    "warning_fr": "Tenir hors de portée des enfants. Ne pas mélanger les produits (ex: javel + acide).",
+    "tip_fr": "Respectez le dosage : plus n’est pas mieux."
+  },
+  {
+    "id": "triman",
+    "codes": [
+      "TRIMAN"
+    ],
+    "category": "Tri (France)",
+    "title_fr": "Logo Triman",
+    "meaning_fr": "Le logo Triman indique qu’un produit/emballage est soumis à une consigne de tri en France.",
+    "action_fr": "Triez l’emballage selon l’info-tri (pictos) ou votre guide de tri local.",
+    "warning_fr": "Les consignes peuvent varier selon la commune.",
+    "tip_fr": "Consultez le guide de tri de votre ville en cas de doute."
+  },
+  {
+    "id": "point-vert",
+    "codes": [
+      "POINT VERT",
+      "GREEN DOT"
+    ],
+    "category": "Tri (France)",
+    "title_fr": "Point Vert",
+    "meaning_fr": "Le Point Vert signifie que le fabricant contribue financièrement à la filière emballages ; ce n’est pas un logo de recyclabilité.",
+    "action_fr": "Triez selon la matière et les consignes locales, pas selon ce logo.",
+    "warning_fr": "Ne pas confondre avec Triman.",
+    "tip_fr": "Cherchez l’info-tri (pictogrammes) sur l’emballage."
+  },
+  {
+    "id": "fsc",
+    "codes": [
+      "FSC"
+    ],
+    "category": "Labels",
+    "title_fr": "FSC (papier/bois certifié)",
+    "meaning_fr": "FSC indique une certification de gestion responsable des forêts pour papier/bois.",
+    "action_fr": "Triez le papier/carton si propre ; sinon ordures ménagères.",
+    "warning_fr": "FSC n’indique pas automatiquement la recyclabilité locale.",
+    "tip_fr": "Réduisez, réutilisez, recyclez : priorité à la réduction."
+  },
+  {
+    "id": "pefc",
+    "codes": [
+      "PEFC"
+    ],
+    "category": "Labels",
+    "title_fr": "PEFC (papier/bois certifié)",
+    "meaning_fr": "PEFC indique une certification de gestion durable des forêts pour papier/bois.",
+    "action_fr": "Triez le papier/carton si accepté et propre.",
+    "warning_fr": "Ne pas confondre label forêt et consigne de tri.",
+    "tip_fr": "Vérifiez aussi la matière (PAP, etc.)."
+  },
+  {
+    "id": "pap-24",
+    "codes": [
+      "PAP 24",
+      "PAP24"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 24)",
+    "meaning_fr": "PAP 24 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-25",
+    "codes": [
+      "PAP 25",
+      "PAP25"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 25)",
+    "meaning_fr": "PAP 25 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-26",
+    "codes": [
+      "PAP 26",
+      "PAP26"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 26)",
+    "meaning_fr": "PAP 26 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-27",
+    "codes": [
+      "PAP 27",
+      "PAP27"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 27)",
+    "meaning_fr": "PAP 27 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-28",
+    "codes": [
+      "PAP 28",
+      "PAP28"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 28)",
+    "meaning_fr": "PAP 28 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-29",
+    "codes": [
+      "PAP 29",
+      "PAP29"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 29)",
+    "meaning_fr": "PAP 29 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-30",
+    "codes": [
+      "PAP 30",
+      "PAP30"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 30)",
+    "meaning_fr": "PAP 30 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-31",
+    "codes": [
+      "PAP 31",
+      "PAP31"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 31)",
+    "meaning_fr": "PAP 31 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-32",
+    "codes": [
+      "PAP 32",
+      "PAP32"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 32)",
+    "meaning_fr": "PAP 32 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-33",
+    "codes": [
+      "PAP 33",
+      "PAP33"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 33)",
+    "meaning_fr": "PAP 33 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-34",
+    "codes": [
+      "PAP 34",
+      "PAP34"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 34)",
+    "meaning_fr": "PAP 34 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-35",
+    "codes": [
+      "PAP 35",
+      "PAP35"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 35)",
+    "meaning_fr": "PAP 35 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-36",
+    "codes": [
+      "PAP 36",
+      "PAP36"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 36)",
+    "meaning_fr": "PAP 36 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-37",
+    "codes": [
+      "PAP 37",
+      "PAP37"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 37)",
+    "meaning_fr": "PAP 37 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-38",
+    "codes": [
+      "PAP 38",
+      "PAP38"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 38)",
+    "meaning_fr": "PAP 38 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-39",
+    "codes": [
+      "PAP 39",
+      "PAP39"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 39)",
+    "meaning_fr": "PAP 39 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-40",
+    "codes": [
+      "PAP 40",
+      "PAP40"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 40)",
+    "meaning_fr": "PAP 40 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-41",
+    "codes": [
+      "PAP 41",
+      "PAP41"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 41)",
+    "meaning_fr": "PAP 41 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-42",
+    "codes": [
+      "PAP 42",
+      "PAP42"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 42)",
+    "meaning_fr": "PAP 42 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-43",
+    "codes": [
+      "PAP 43",
+      "PAP43"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 43)",
+    "meaning_fr": "PAP 43 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-44",
+    "codes": [
+      "PAP 44",
+      "PAP44"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 44)",
+    "meaning_fr": "PAP 44 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-45",
+    "codes": [
+      "PAP 45",
+      "PAP45"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 45)",
+    "meaning_fr": "PAP 45 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-46",
+    "codes": [
+      "PAP 46",
+      "PAP46"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 46)",
+    "meaning_fr": "PAP 46 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-47",
+    "codes": [
+      "PAP 47",
+      "PAP47"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 47)",
+    "meaning_fr": "PAP 47 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-48",
+    "codes": [
+      "PAP 48",
+      "PAP48"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 48)",
+    "meaning_fr": "PAP 48 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-49",
+    "codes": [
+      "PAP 49",
+      "PAP49"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 49)",
+    "meaning_fr": "PAP 49 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-50",
+    "codes": [
+      "PAP 50",
+      "PAP50"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 50)",
+    "meaning_fr": "PAP 50 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-51",
+    "codes": [
+      "PAP 51",
+      "PAP51"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 51)",
+    "meaning_fr": "PAP 51 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-52",
+    "codes": [
+      "PAP 52",
+      "PAP52"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 52)",
+    "meaning_fr": "PAP 52 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-53",
+    "codes": [
+      "PAP 53",
+      "PAP53"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 53)",
+    "meaning_fr": "PAP 53 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-54",
+    "codes": [
+      "PAP 54",
+      "PAP54"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 54)",
+    "meaning_fr": "PAP 54 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-55",
+    "codes": [
+      "PAP 55",
+      "PAP55"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 55)",
+    "meaning_fr": "PAP 55 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-56",
+    "codes": [
+      "PAP 56",
+      "PAP56"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 56)",
+    "meaning_fr": "PAP 56 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-57",
+    "codes": [
+      "PAP 57",
+      "PAP57"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 57)",
+    "meaning_fr": "PAP 57 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-58",
+    "codes": [
+      "PAP 58",
+      "PAP58"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 58)",
+    "meaning_fr": "PAP 58 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-59",
+    "codes": [
+      "PAP 59",
+      "PAP59"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 59)",
+    "meaning_fr": "PAP 59 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-60",
+    "codes": [
+      "PAP 60",
+      "PAP60"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 60)",
+    "meaning_fr": "PAP 60 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-61",
+    "codes": [
+      "PAP 61",
+      "PAP61"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 61)",
+    "meaning_fr": "PAP 61 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-62",
+    "codes": [
+      "PAP 62",
+      "PAP62"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 62)",
+    "meaning_fr": "PAP 62 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-63",
+    "codes": [
+      "PAP 63",
+      "PAP63"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 63)",
+    "meaning_fr": "PAP 63 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-64",
+    "codes": [
+      "PAP 64",
+      "PAP64"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 64)",
+    "meaning_fr": "PAP 64 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-65",
+    "codes": [
+      "PAP 65",
+      "PAP65"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 65)",
+    "meaning_fr": "PAP 65 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-66",
+    "codes": [
+      "PAP 66",
+      "PAP66"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 66)",
+    "meaning_fr": "PAP 66 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-67",
+    "codes": [
+      "PAP 67",
+      "PAP67"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 67)",
+    "meaning_fr": "PAP 67 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-68",
+    "codes": [
+      "PAP 68",
+      "PAP68"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 68)",
+    "meaning_fr": "PAP 68 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-69",
+    "codes": [
+      "PAP 69",
+      "PAP69"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 69)",
+    "meaning_fr": "PAP 69 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-70",
+    "codes": [
+      "PAP 70",
+      "PAP70"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 70)",
+    "meaning_fr": "PAP 70 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-71",
+    "codes": [
+      "PAP 71",
+      "PAP71"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 71)",
+    "meaning_fr": "PAP 71 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-72",
+    "codes": [
+      "PAP 72",
+      "PAP72"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 72)",
+    "meaning_fr": "PAP 72 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-73",
+    "codes": [
+      "PAP 73",
+      "PAP73"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 73)",
+    "meaning_fr": "PAP 73 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-74",
+    "codes": [
+      "PAP 74",
+      "PAP74"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 74)",
+    "meaning_fr": "PAP 74 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-75",
+    "codes": [
+      "PAP 75",
+      "PAP75"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 75)",
+    "meaning_fr": "PAP 75 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-76",
+    "codes": [
+      "PAP 76",
+      "PAP76"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 76)",
+    "meaning_fr": "PAP 76 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-77",
+    "codes": [
+      "PAP 77",
+      "PAP77"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 77)",
+    "meaning_fr": "PAP 77 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-78",
+    "codes": [
+      "PAP 78",
+      "PAP78"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 78)",
+    "meaning_fr": "PAP 78 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "pap-79",
+    "codes": [
+      "PAP 79",
+      "PAP79"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Papier / Carton (code PAP 79)",
+    "meaning_fr": "PAP 79 est un code matière indiquant un emballage à base de papier/carton (variante).",
+    "action_fr": "À trier dans le bac papier/carton si votre commune l’accepte.",
+    "warning_fr": "Les emballages composites ou très souillés peuvent être refusés.",
+    "tip_fr": "En cas de doute, consultez l’info-tri ou le guide de tri local."
+  },
+  {
+    "id": "gl-73",
+    "codes": [
+      "GL 73",
+      "GL73"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 73)",
+    "meaning_fr": "GL 73 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-74",
+    "codes": [
+      "GL 74",
+      "GL74"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 74)",
+    "meaning_fr": "GL 74 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-75",
+    "codes": [
+      "GL 75",
+      "GL75"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 75)",
+    "meaning_fr": "GL 75 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-76",
+    "codes": [
+      "GL 76",
+      "GL76"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 76)",
+    "meaning_fr": "GL 76 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-77",
+    "codes": [
+      "GL 77",
+      "GL77"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 77)",
+    "meaning_fr": "GL 77 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-78",
+    "codes": [
+      "GL 78",
+      "GL78"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 78)",
+    "meaning_fr": "GL 78 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "gl-79",
+    "codes": [
+      "GL 79",
+      "GL79"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Verre (code GL 79)",
+    "meaning_fr": "GL 79 est un code matière lié au verre (variante).",
+    "action_fr": "À déposer dans le conteneur verre, selon les consignes locales.",
+    "warning_fr": "Les objets en céramique/porcelaine ne vont pas dans le verre.",
+    "tip_fr": "Retirez les couvercles si demandé localement."
+  },
+  {
+    "id": "c-alu",
+    "codes": [
+      "C/ALU",
+      "C ALU"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Composite à base d’aluminium",
+    "meaning_fr": "C/ALU indique un emballage composite avec une part importante d’aluminium.",
+    "action_fr": "Suivez les consignes locales : souvent bac de tri des emballages.",
+    "warning_fr": "Les composites peuvent être refusés selon les centres de tri.",
+    "tip_fr": "Videz et aplatissez si possible."
+  },
+  {
+    "id": "c-fe",
+    "codes": [
+      "C/FE",
+      "C FE"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Composite à base d’acier",
+    "meaning_fr": "C/FE indique un composite avec une part importante d’acier.",
+    "action_fr": "À trier selon consignes locales (souvent bac de tri).",
+    "warning_fr": "Évitez de trier des objets non-emballages.",
+    "tip_fr": "Videz et regroupez les petites pièces."
+  },
+  {
+    "id": "c-gl",
+    "codes": [
+      "C/GL",
+      "C GL"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Composite à base de verre",
+    "meaning_fr": "C/GL indique un composite avec une part importante de verre.",
+    "action_fr": "Suivez les consignes locales ; si c’est un emballage en verre, borne à verre.",
+    "warning_fr": "Les composites verre+autres matières peuvent être refusés.",
+    "tip_fr": "Vérifiez l’info-tri sur l’emballage."
+  },
+  {
+    "id": "format-2l",
+    "codes": [
+      "2L",
+      "2 L"
+    ],
+    "category": "Format",
+    "title_fr": "Format 2 litres",
+    "meaning_fr": "Indique un volume total de 2 litres.",
+    "action_fr": "Comparez le prix au litre (€/L) pour vérifier l’intérêt.",
+    "warning_fr": "Attention aux confusions : certaines bouteilles indiquent la contenance totale du lot.",
+    "tip_fr": "Pour les liquides, calculez d’abord en €/L, puis en €/dose si besoin."
+  },
+  {
+    "id": "format-3l",
+    "codes": [
+      "3L",
+      "3 L"
+    ],
+    "category": "Format",
+    "title_fr": "Format 3 litres",
+    "meaning_fr": "Indique un volume total de 3 litres.",
+    "action_fr": "Comparez le prix au litre (€/L) pour vérifier l’intérêt.",
+    "warning_fr": "Attention aux confusions : certaines bouteilles indiquent la contenance totale du lot.",
+    "tip_fr": "Pour les liquides, calculez d’abord en €/L, puis en €/dose si besoin."
+  },
+  {
+    "id": "format-5l",
+    "codes": [
+      "5L",
+      "5 L"
+    ],
+    "category": "Format",
+    "title_fr": "Format 5 litres",
+    "meaning_fr": "Indique un volume total de 5 litres.",
+    "action_fr": "Comparez le prix au litre (€/L) pour vérifier l’intérêt.",
+    "warning_fr": "Attention aux confusions : certaines bouteilles indiquent la contenance totale du lot.",
+    "tip_fr": "Pour les liquides, calculez d’abord en €/L, puis en €/dose si besoin."
+  },
+  {
+    "id": "format-10l",
+    "codes": [
+      "10L",
+      "10 L"
+    ],
+    "category": "Format",
+    "title_fr": "Format 10 litres",
+    "meaning_fr": "Indique un volume total de 10 litres.",
+    "action_fr": "Comparez le prix au litre (€/L) pour vérifier l’intérêt.",
+    "warning_fr": "Attention aux confusions : certaines bouteilles indiquent la contenance totale du lot.",
+    "tip_fr": "Pour les liquides, calculez d’abord en €/L, puis en €/dose si besoin."
+  },
+  {
+    "id": "format-20l",
+    "codes": [
+      "20L",
+      "20 L"
+    ],
+    "category": "Format",
+    "title_fr": "Format 20 litres",
+    "meaning_fr": "Indique un volume total de 20 litres.",
+    "action_fr": "Comparez le prix au litre (€/L) pour vérifier l’intérêt.",
+    "warning_fr": "Attention aux confusions : certaines bouteilles indiquent la contenance totale du lot.",
+    "tip_fr": "Pour les liquides, calculez d’abord en €/L, puis en €/dose si besoin."
+  },
+  {
+    "id": "ce-mark",
+    "codes": [
+      "CE"
+    ],
+    "category": "Conformité",
+    "title_fr": "Marquage CE (conformité UE)",
+    "meaning_fr": "Le marquage CE indique que le produit respecte les exigences essentielles de sécurité/santé de l’UE pour les catégories concernées.",
+    "action_fr": "Conservez la notice et respectez les conditions d’usage.",
+    "warning_fr": "Le marquage CE n’est pas un label de qualité supérieure : c’est une conformité réglementaire.",
+    "tip_fr": "Achetez auprès de vendeurs fiables pour éviter les contrefaçons."
+  },
+  {
+    "id": "nf-mark",
+    "codes": [
+      "NF"
+    ],
+    "category": "Conformité",
+    "title_fr": "Marque NF",
+    "meaning_fr": "NF est une marque volontaire de certification indiquant un niveau de qualité/sécurité contrôlé pour certains produits.",
+    "action_fr": "Vérifiez le domaine couvert par la certification (ce que NF garantit).",
+    "warning_fr": "NF varie selon les familles de produits : lisez l’étiquette/notice.",
+    "tip_fr": "Comparez aussi le prix unitaire et les avis indépendants."
+  },
+  {
+    "id": "pete",
+    "codes": [
+      "PETE",
+      "PETE 1"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "PETE (équivalent PET 1)",
+    "meaning_fr": "PETE est une écriture alternative de PET (souvent PET 1).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Les règles locales priment si le tri refuse certaines barquettes.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "pe",
+    "codes": [
+      "PE",
+      "PE-LD",
+      "PE-HD"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "PE (polyéthylène)",
+    "meaning_fr": "PE désigne le polyéthylène (LDPE/HDPE selon variante).",
+    "action_fr": "À trier si l’emballage est accepté localement.",
+    "warning_fr": "Les films plastiques ne sont pas acceptés partout.",
+    "tip_fr": "Consultez l’info-tri ou guide local."
+  },
+  {
+    "id": "alu-41",
+    "codes": [
+      "ALU 41",
+      "ALU41"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 41)",
+    "meaning_fr": "ALU 41 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-41",
+    "codes": [
+      "FE 41",
+      "FE41"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 41)",
+    "meaning_fr": "FE 41 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-11",
+    "codes": [
+      "PP 11",
+      "PP11"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 11)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-42",
+    "codes": [
+      "ALU 42",
+      "ALU42"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 42)",
+    "meaning_fr": "ALU 42 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-42",
+    "codes": [
+      "FE 42",
+      "FE42"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 42)",
+    "meaning_fr": "FE 42 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-12",
+    "codes": [
+      "PP 12",
+      "PP12"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 12)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-43",
+    "codes": [
+      "ALU 43",
+      "ALU43"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 43)",
+    "meaning_fr": "ALU 43 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-43",
+    "codes": [
+      "FE 43",
+      "FE43"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 43)",
+    "meaning_fr": "FE 43 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-13",
+    "codes": [
+      "PP 13",
+      "PP13"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 13)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-44",
+    "codes": [
+      "ALU 44",
+      "ALU44"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 44)",
+    "meaning_fr": "ALU 44 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-44",
+    "codes": [
+      "FE 44",
+      "FE44"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 44)",
+    "meaning_fr": "FE 44 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-14",
+    "codes": [
+      "PP 14",
+      "PP14"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 14)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-45",
+    "codes": [
+      "ALU 45",
+      "ALU45"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 45)",
+    "meaning_fr": "ALU 45 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-45",
+    "codes": [
+      "FE 45",
+      "FE45"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 45)",
+    "meaning_fr": "FE 45 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-15",
+    "codes": [
+      "PP 15",
+      "PP15"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 15)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-46",
+    "codes": [
+      "ALU 46",
+      "ALU46"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 46)",
+    "meaning_fr": "ALU 46 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-46",
+    "codes": [
+      "FE 46",
+      "FE46"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 46)",
+    "meaning_fr": "FE 46 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-16",
+    "codes": [
+      "PP 16",
+      "PP16"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 16)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-47",
+    "codes": [
+      "ALU 47",
+      "ALU47"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 47)",
+    "meaning_fr": "ALU 47 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-47",
+    "codes": [
+      "FE 47",
+      "FE47"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 47)",
+    "meaning_fr": "FE 47 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-17",
+    "codes": [
+      "PP 17",
+      "PP17"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 17)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-48",
+    "codes": [
+      "ALU 48",
+      "ALU48"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 48)",
+    "meaning_fr": "ALU 48 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-48",
+    "codes": [
+      "FE 48",
+      "FE48"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 48)",
+    "meaning_fr": "FE 48 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-18",
+    "codes": [
+      "PP 18",
+      "PP18"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 18)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-49",
+    "codes": [
+      "ALU 49",
+      "ALU49"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 49)",
+    "meaning_fr": "ALU 49 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-49",
+    "codes": [
+      "FE 49",
+      "FE49"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 49)",
+    "meaning_fr": "FE 49 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-19",
+    "codes": [
+      "PP 19",
+      "PP19"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 19)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-50",
+    "codes": [
+      "ALU 50",
+      "ALU50"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 50)",
+    "meaning_fr": "ALU 50 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-50",
+    "codes": [
+      "FE 50",
+      "FE50"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 50)",
+    "meaning_fr": "FE 50 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-20",
+    "codes": [
+      "PP 20",
+      "PP20"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 20)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-51",
+    "codes": [
+      "ALU 51",
+      "ALU51"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 51)",
+    "meaning_fr": "ALU 51 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-51",
+    "codes": [
+      "FE 51",
+      "FE51"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 51)",
+    "meaning_fr": "FE 51 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-21",
+    "codes": [
+      "PP 21",
+      "PP21"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 21)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-52",
+    "codes": [
+      "ALU 52",
+      "ALU52"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 52)",
+    "meaning_fr": "ALU 52 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-52",
+    "codes": [
+      "FE 52",
+      "FE52"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 52)",
+    "meaning_fr": "FE 52 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-22",
+    "codes": [
+      "PP 22",
+      "PP22"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 22)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-53",
+    "codes": [
+      "ALU 53",
+      "ALU53"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 53)",
+    "meaning_fr": "ALU 53 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-53",
+    "codes": [
+      "FE 53",
+      "FE53"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 53)",
+    "meaning_fr": "FE 53 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-23",
+    "codes": [
+      "PP 23",
+      "PP23"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 23)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-54",
+    "codes": [
+      "ALU 54",
+      "ALU54"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 54)",
+    "meaning_fr": "ALU 54 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-54",
+    "codes": [
+      "FE 54",
+      "FE54"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 54)",
+    "meaning_fr": "FE 54 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-24",
+    "codes": [
+      "PP 24",
+      "PP24"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 24)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-55",
+    "codes": [
+      "ALU 55",
+      "ALU55"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 55)",
+    "meaning_fr": "ALU 55 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-55",
+    "codes": [
+      "FE 55",
+      "FE55"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 55)",
+    "meaning_fr": "FE 55 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-25",
+    "codes": [
+      "PP 25",
+      "PP25"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 25)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-56",
+    "codes": [
+      "ALU 56",
+      "ALU56"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 56)",
+    "meaning_fr": "ALU 56 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-56",
+    "codes": [
+      "FE 56",
+      "FE56"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 56)",
+    "meaning_fr": "FE 56 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-26",
+    "codes": [
+      "PP 26",
+      "PP26"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 26)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-57",
+    "codes": [
+      "ALU 57",
+      "ALU57"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 57)",
+    "meaning_fr": "ALU 57 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-57",
+    "codes": [
+      "FE 57",
+      "FE57"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 57)",
+    "meaning_fr": "FE 57 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-27",
+    "codes": [
+      "PP 27",
+      "PP27"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 27)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-58",
+    "codes": [
+      "ALU 58",
+      "ALU58"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 58)",
+    "meaning_fr": "ALU 58 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-58",
+    "codes": [
+      "FE 58",
+      "FE58"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 58)",
+    "meaning_fr": "FE 58 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-28",
+    "codes": [
+      "PP 28",
+      "PP28"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 28)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-59",
+    "codes": [
+      "ALU 59",
+      "ALU59"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 59)",
+    "meaning_fr": "ALU 59 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-59",
+    "codes": [
+      "FE 59",
+      "FE59"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 59)",
+    "meaning_fr": "FE 59 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-29",
+    "codes": [
+      "PP 29",
+      "PP29"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 29)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-60",
+    "codes": [
+      "ALU 60",
+      "ALU60"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 60)",
+    "meaning_fr": "ALU 60 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-60",
+    "codes": [
+      "FE 60",
+      "FE60"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 60)",
+    "meaning_fr": "FE 60 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-30",
+    "codes": [
+      "PP 30",
+      "PP30"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 30)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-61",
+    "codes": [
+      "ALU 61",
+      "ALU61"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 61)",
+    "meaning_fr": "ALU 61 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-61",
+    "codes": [
+      "FE 61",
+      "FE61"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 61)",
+    "meaning_fr": "FE 61 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-31",
+    "codes": [
+      "PP 31",
+      "PP31"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 31)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-62",
+    "codes": [
+      "ALU 62",
+      "ALU62"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 62)",
+    "meaning_fr": "ALU 62 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-62",
+    "codes": [
+      "FE 62",
+      "FE62"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 62)",
+    "meaning_fr": "FE 62 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-32",
+    "codes": [
+      "PP 32",
+      "PP32"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 32)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-63",
+    "codes": [
+      "ALU 63",
+      "ALU63"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 63)",
+    "meaning_fr": "ALU 63 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-63",
+    "codes": [
+      "FE 63",
+      "FE63"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 63)",
+    "meaning_fr": "FE 63 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-33",
+    "codes": [
+      "PP 33",
+      "PP33"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 33)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-64",
+    "codes": [
+      "ALU 64",
+      "ALU64"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 64)",
+    "meaning_fr": "ALU 64 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-64",
+    "codes": [
+      "FE 64",
+      "FE64"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 64)",
+    "meaning_fr": "FE 64 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-34",
+    "codes": [
+      "PP 34",
+      "PP34"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 34)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-65",
+    "codes": [
+      "ALU 65",
+      "ALU65"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 65)",
+    "meaning_fr": "ALU 65 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-65",
+    "codes": [
+      "FE 65",
+      "FE65"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 65)",
+    "meaning_fr": "FE 65 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-35",
+    "codes": [
+      "PP 35",
+      "PP35"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 35)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-66",
+    "codes": [
+      "ALU 66",
+      "ALU66"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 66)",
+    "meaning_fr": "ALU 66 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-66",
+    "codes": [
+      "FE 66",
+      "FE66"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 66)",
+    "meaning_fr": "FE 66 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-36",
+    "codes": [
+      "PP 36",
+      "PP36"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 36)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-67",
+    "codes": [
+      "ALU 67",
+      "ALU67"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 67)",
+    "meaning_fr": "ALU 67 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-67",
+    "codes": [
+      "FE 67",
+      "FE67"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 67)",
+    "meaning_fr": "FE 67 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-37",
+    "codes": [
+      "PP 37",
+      "PP37"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 37)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-68",
+    "codes": [
+      "ALU 68",
+      "ALU68"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 68)",
+    "meaning_fr": "ALU 68 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-68",
+    "codes": [
+      "FE 68",
+      "FE68"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 68)",
+    "meaning_fr": "FE 68 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-38",
+    "codes": [
+      "PP 38",
+      "PP38"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 38)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-69",
+    "codes": [
+      "ALU 69",
+      "ALU69"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 69)",
+    "meaning_fr": "ALU 69 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-69",
+    "codes": [
+      "FE 69",
+      "FE69"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 69)",
+    "meaning_fr": "FE 69 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-39",
+    "codes": [
+      "PP 39",
+      "PP39"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 39)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-70",
+    "codes": [
+      "ALU 70",
+      "ALU70"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 70)",
+    "meaning_fr": "ALU 70 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-70",
+    "codes": [
+      "FE 70",
+      "FE70"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 70)",
+    "meaning_fr": "FE 70 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-40",
+    "codes": [
+      "PP 40",
+      "PP40"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 40)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-71",
+    "codes": [
+      "ALU 71",
+      "ALU71"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 71)",
+    "meaning_fr": "ALU 71 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-71",
+    "codes": [
+      "FE 71",
+      "FE71"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 71)",
+    "meaning_fr": "FE 71 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-41",
+    "codes": [
+      "PP 41",
+      "PP41"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 41)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-72",
+    "codes": [
+      "ALU 72",
+      "ALU72"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 72)",
+    "meaning_fr": "ALU 72 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-72",
+    "codes": [
+      "FE 72",
+      "FE72"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 72)",
+    "meaning_fr": "FE 72 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-42",
+    "codes": [
+      "PP 42",
+      "PP42"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 42)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-73",
+    "codes": [
+      "ALU 73",
+      "ALU73"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 73)",
+    "meaning_fr": "ALU 73 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-73",
+    "codes": [
+      "FE 73",
+      "FE73"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 73)",
+    "meaning_fr": "FE 73 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-43",
+    "codes": [
+      "PP 43",
+      "PP43"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 43)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-74",
+    "codes": [
+      "ALU 74",
+      "ALU74"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 74)",
+    "meaning_fr": "ALU 74 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-74",
+    "codes": [
+      "FE 74",
+      "FE74"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 74)",
+    "meaning_fr": "FE 74 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-44",
+    "codes": [
+      "PP 44",
+      "PP44"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 44)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-75",
+    "codes": [
+      "ALU 75",
+      "ALU75"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 75)",
+    "meaning_fr": "ALU 75 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-75",
+    "codes": [
+      "FE 75",
+      "FE75"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 75)",
+    "meaning_fr": "FE 75 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-45",
+    "codes": [
+      "PP 45",
+      "PP45"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 45)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-76",
+    "codes": [
+      "ALU 76",
+      "ALU76"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 76)",
+    "meaning_fr": "ALU 76 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-76",
+    "codes": [
+      "FE 76",
+      "FE76"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 76)",
+    "meaning_fr": "FE 76 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-46",
+    "codes": [
+      "PP 46",
+      "PP46"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 46)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-77",
+    "codes": [
+      "ALU 77",
+      "ALU77"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 77)",
+    "meaning_fr": "ALU 77 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-77",
+    "codes": [
+      "FE 77",
+      "FE77"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 77)",
+    "meaning_fr": "FE 77 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-47",
+    "codes": [
+      "PP 47",
+      "PP47"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 47)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-78",
+    "codes": [
+      "ALU 78",
+      "ALU78"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 78)",
+    "meaning_fr": "ALU 78 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-78",
+    "codes": [
+      "FE 78",
+      "FE78"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 78)",
+    "meaning_fr": "FE 78 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-48",
+    "codes": [
+      "PP 48",
+      "PP48"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 48)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-79",
+    "codes": [
+      "ALU 79",
+      "ALU79"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 79)",
+    "meaning_fr": "ALU 79 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-79",
+    "codes": [
+      "FE 79",
+      "FE79"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 79)",
+    "meaning_fr": "FE 79 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-49",
+    "codes": [
+      "PP 49",
+      "PP49"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 49)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-80",
+    "codes": [
+      "ALU 80",
+      "ALU80"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 80)",
+    "meaning_fr": "ALU 80 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-80",
+    "codes": [
+      "FE 80",
+      "FE80"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 80)",
+    "meaning_fr": "FE 80 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-50",
+    "codes": [
+      "PP 50",
+      "PP50"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 50)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-81",
+    "codes": [
+      "ALU 81",
+      "ALU81"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 81)",
+    "meaning_fr": "ALU 81 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-81",
+    "codes": [
+      "FE 81",
+      "FE81"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 81)",
+    "meaning_fr": "FE 81 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-51",
+    "codes": [
+      "PP 51",
+      "PP51"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 51)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-82",
+    "codes": [
+      "ALU 82",
+      "ALU82"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 82)",
+    "meaning_fr": "ALU 82 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-82",
+    "codes": [
+      "FE 82",
+      "FE82"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 82)",
+    "meaning_fr": "FE 82 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  },
+  {
+    "id": "pp-52",
+    "codes": [
+      "PP 52",
+      "PP52"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Polypropylène (variante PP 52)",
+    "meaning_fr": "Variante d’identification matière pour du polypropylène (PP).",
+    "action_fr": "À trier avec les emballages plastiques selon consignes locales.",
+    "warning_fr": "Ne pas confondre avec des objets non-emballages.",
+    "tip_fr": "Videz l’emballage avant tri."
+  },
+  {
+    "id": "alu-83",
+    "codes": [
+      "ALU 83",
+      "ALU83"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Aluminium (code ALU 83)",
+    "meaning_fr": "ALU 83 est un code matière lié à l’aluminium (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Les emballages composites peuvent être refusés.",
+    "tip_fr": "Videz/essuyez si très sale."
+  },
+  {
+    "id": "fe-83",
+    "codes": [
+      "FE 83",
+      "FE83"
+    ],
+    "category": "Emballage / Tri",
+    "title_fr": "Acier (code FE 83)",
+    "meaning_fr": "FE 83 est un code matière lié à l’acier (variante).",
+    "action_fr": "À trier avec les métaux si accepté localement.",
+    "warning_fr": "Aérosols : uniquement vides, ne pas percer.",
+    "tip_fr": "Regroupez les petites pièces si possible."
+  }
+]
