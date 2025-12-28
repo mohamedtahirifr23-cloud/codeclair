@@ -1,11 +1,16 @@
-import "./globals.css";
-
 export const metadata = {
-  title: "CodeClair — Comprendre les codes sur les produits",
-  description: "Entrez un code (PAP, PET, 12M, LOT...) et obtenez une explication claire."
+  title: "CodeClair",
+  description: "Comprendre les codes sur les produits",
+  verification: {
+    google: "tc5zz-30vxn2UXrM31LvEi0sJUybr0hRyifGc7CnULU",
+  },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="fr">
       <body>{children}</body>
